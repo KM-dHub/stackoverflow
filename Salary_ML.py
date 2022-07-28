@@ -43,7 +43,7 @@ def clean_data(df):
 
     X = df
     return X, y
-
+## Second function - Git Test
 def find_optimal_lm_mod(X, y, cutoffs, test_size = .30, random_state=42, plot=True):
     '''
     INPUT
